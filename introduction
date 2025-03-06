@@ -17,3 +17,34 @@ What is Python Used For?
 🔹 Game Development – Used in game engines like Pygame.
 🔹 Cybersecurity & Ethical Hacking – Python is used for penetration testing tools.
 🔹 Embedded Systems & IoT – Works with Raspberry Pi for hardware projects.
+
+
+Python is a key language in data engineering because of its ability to process, transform, and analyze large datasets efficiently. 
+Here’s how Python is used in data engineering:
+
+1. Data Extraction (ETL - Extract, Transform, Load)
+Python helps in extracting data from multiple sources like:
+✅ Databases – MySQL, PostgreSQL, MongoDB (using libraries like SQLAlchemy, psycopg2, PyMongo)
+✅ APIs & Web Scraping – REST APIs, Web Scraping (requests, BeautifulSoup, Scrapy)
+✅ Cloud Storage & Big Data – AWS S3, Google BigQuery, Hadoop
+
+2. Data Transformation & Cleaning
+Python is excellent for processing and transforming raw data into structured formats.
+✅ Pandas – Handles tabular data, filtering, and aggregation
+✅ Dask – Scales Pandas for big data
+✅ PySpark – Processes large datasets using Apache Spark
+
+3. Data Pipeline Automation
+✅ Apache Airflow – Schedules and automates workflows
+✅ Luigi – Manages dependencies in ETL workflows
+✅ Dagster – Modern data pipeline orchestration
+
+4. Data Storage & Loading
+✅ Database Interaction – SQL (sqlite3, SQLAlchemy)
+✅ Big Data Technologies – Hadoop, Spark, Kafka
+✅ Cloud Integration – AWS S3, Google Cloud Storage, Azure Blob Storage
+
+5. Data Processing & Performance Optimization
+✅ NumPy – Fast numerical computations
+✅ Modin – Speeds up Pandas for large datasets
+✅ Vaex – Handles billions of rows efficiently
