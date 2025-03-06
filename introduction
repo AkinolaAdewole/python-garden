@@ -8,3 +8,12 @@ Dynamically Typed – No need to declare variable types explicitly.
 Extensive Libraries & Frameworks – Python has powerful libraries like NumPy, Pandas, TensorFlow, Django, and Flask.
 Cross-Platform – Python code runs on Windows, macOS, and Linux.
 Open Source & Community Support – A vast community contributes to Python's development and resources.
+
+
+What is Python Used For?
+🔹 Web Development – Frameworks like Django and Flask help build web applications.
+🔹 Data Science & Machine Learning – Libraries like Pandas, NumPy, and TensorFlow make data analysis and AI easy.
+🔹 Automation & Scripting – Python automates repetitive tasks like file handling and web scraping.
+🔹 Game Development – Used in game engines like Pygame.
+🔹 Cybersecurity & Ethical Hacking – Python is used for penetration testing tools.
+🔹 Embedded Systems & IoT – Works with Raspberry Pi for hardware projects.
